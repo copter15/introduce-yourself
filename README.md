@@ -1,11 +1,6 @@
 
 <html>
 <head>
-<meta charset="UTF-8">
-<link rel="icon" type="image/png" href="tool11_122838.png">
-</head>
-<body img src="https://i0.wp.com/windowscustomization.com/wp-content/uploads/2018/09/flat-earth.gif?fit=750%2C341&quality=80&strip=all&ssl=1" />
->
 <h1 style="text-align: left;"><strong>&nbsp;นายสิรวิชญ์ เหรียญแพคงคา </strong></h1>
 <h2 style="color:Tomato;text-align: left;"><strong>&nbsp;เกิดวันที่ 15 สิงหาคม ปี 2002 </strong></h2>
 <h3 style="text-align: left;"><strong>&nbsp; - เชื้อชาติ ไทย</strong></h3>
