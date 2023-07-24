@@ -1,4 +1,4 @@
-55555245555*<!DOCTYPE html>
+
 <html>
 <head>
 <title> แนะนำตัวเอง </title>
