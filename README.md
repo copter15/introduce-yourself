@@ -16,9 +16,6 @@
   
   <img src=https://scontent.fbkk12-3.fna.fbcdn.net/v/t1.6435-9/106088297_1171823829844058_5323458475104390221_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=174925&_nc_eui2=AeFk6qPqqZRhBbYNo9vgHypguYxuM2JZdRm5jG4zYll1Gdzo6XBE9QCU2SUkAtib-Upnd7XnAd7TedQ1NAhHfQa2&_nc_ohc=_cVTNTrxVsAAX8YSTEt&_nc_ht=scontent.fbkk12-3.fna&oh=00_AT-qJMpLGwhqs-4AE5d3wFsBZiCbbFMGRZf_MI3fSMWizg&oe=62EFA6D2 width="600" height="650" />
   
-  <img src="https://scontent.fbkk12-2.fna.fbcdn.net/v/t39.30808-6/257395128_1546232285736542_7243492499334481216_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGtO4EhWmXUrdCKXRC8zGQs4dJa57i8wLLh0lrnuLzAsmc6KJ31tX_IMKpJt2R8iaQA0AtS_0nLxF21cySRLbV6&_nc_ohc=ox1YTGK_ggsAX9XMnlx&_nc_zt=23&_nc_ht=scontent.fbkk12-2.fna&oh=00_AT8mJA4xVua9iTcMLMrVfMgWty3pldVGf9nyTZY-vakRww&oe=62CE7A6B" width="600" height="650" />
-
-  <p><iframe src="https://www.youtube.com/embed/9EDZixuODrw?controls=0" width="420" height="315"></iframe></p>
-
+  <img src="[https://scontent.fbkk12-2.fna.fbcdn.net/v/t39.30808-6/257395128_1546232285736542_7243492499334481216_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGtO4EhWmXUrdCKXRC8zGQs4dJa57i8wLLh0lrnuLzAsmc6KJ31tX_IMKpJt2R8iaQA0AtS_0nLxF21cySRLbV6&_nc_ohc=ox1YTGK_ggsAX9XMnlx&_nc_zt=23&_nc_ht=scontent.fbkk12-2.fna&oh=00_AT8mJA4xVua9iTcMLMrVfMgWty3pldVGf9nyTZY-vakRww&oe=62CE7A6B](https://static.wixstatic.com/media/ca4260_17a842f22f42460f83fc761b0244cca4~mv2.jpg/v1/fill/w_740,h_493,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ca4260_17a842f22f42460f83fc761b0244cca4~mv2.jpg)https://static.wixstatic.com/media/ca4260_17a842f22f42460f83fc761b0244cca4~mv2.jpg/v1/fill/w_740,h_493,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ca4260_17a842f22f42460f83fc761b0244cca4~mv2.jpg" width="600" height="650" />
   </body>
 </html>
