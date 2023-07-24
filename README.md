@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is sirawit
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is นายสิรวิชญ์ เหรียญแพคงคา 
 ===============================================================================================================================
 
 undergraduate student
@@ -49,7 +49,7 @@ undergraduate student
 
 <html>
 <head>
-<h1 style="text-align: left;"><strong>&nbsp;นายสิรวิชญ์ เหรียญแพคงคา </strong></h1>
+
 <h2 style="color:Tomato;text-align: left;"><strong>&nbsp;เกิดวันที่ 15 สิงหาคม ปี 2002 </strong></h2>
 <h3 style="text-align: left;"><strong>&nbsp; - เชื้อชาติ ไทย</strong></h3>
 <h3 style="text-align: left;"><strong>&nbsp; - สัญชาติ ไทย</strong></h3>
